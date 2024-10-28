@@ -1,4 +1,4 @@
-********** Projeto Eventos Astronomicos **********
+********** Projeto Eventos Astronômicos **********
 
 Este é um projeto que exibe as chuvas de meteoros que podem ser vistas no dia atual e as que poderão ser vistas em até dois meses.
 
